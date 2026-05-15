@@ -4,7 +4,7 @@ This is a page that shares my relevant projects. My projects are inspired by per
 
 ## Fullstack Engineer
 
-I have systems, web dev and low-level experience through work, personal projects and course assignments. My interest lies in scalable infrastructure and how artificial intelligence shapes the development workflow.
+I have systems, web dev and low-level experience through work and personal projects. My interest lies in scalable infrastructure and how artificial intelligence shapes the development workflow.
 
 I enjoy collaborative work on challenging tasks. I've led and contributed to several projects, across a variety of harnesses, that have helped form my interest in cloud computing and AI.
 
